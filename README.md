@@ -4,5 +4,5 @@ An iOS application that allows you to make complex calculations according to pro
 
 # What I Learned
 
-* Xcode basics
+* Xcode basics.
 * Basic UI implementation.
